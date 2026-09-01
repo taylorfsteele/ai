@@ -1,0 +1,19 @@
+packages/ai-sandbox-local-process/tests/local-process.test.ts
+  s_a53bb95ee8fe1a::t_c0f98dee5cef9f 236-250,252,254-268,270
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "58614a27cec5fc76c0be067aa4c1401885aafeb4",
+  "prompts": {},
+  "sessions": {
+    "s_a53bb95ee8fe1a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c38d651c-68b8-4c4a-9903-5ab7a86e4a1e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "taylorfsteele <taylor.f.steele@gmail.com>"
+    }
+  }
+}
